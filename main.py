@@ -4,7 +4,7 @@ from flask import Flask
 from threading import Thread
 
 # ================= TOKEN =================
-BOT_TOKEN = "8721070900:AAHLjGo_CuLQz6iNIHXKQhoYHxFZQd8Pj7k"
+BOT_TOKEN = "8721070900:AAFZF_1CVe6IJp9osOLvvnYXsJKwJuiDkkw"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
