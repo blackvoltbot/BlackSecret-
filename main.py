@@ -14,8 +14,8 @@ import time
 # CONFIG
 # =========================================
 
-TOKEN = "8721070900:AAFotku8KdMcqVF8Zy_oL
-whdbD0JkBRIzE4"
+TOKEN = "8721070900: AAHLjGo_CuLQz6iNIHXKQ
+hoYHxFZQd8Pj7k"
 ADMIN_CHAT_ID = 7492353753
 
 bot = telebot.TeleBot(TOKEN)
